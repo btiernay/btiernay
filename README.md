@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @btiernay
+- 👀 I’m interested in software
+- 🌱 I’m currently learning about software
+- 💞️ I’m looking to collaborate on software
+- 📫 How to reach me is by writing software with me
